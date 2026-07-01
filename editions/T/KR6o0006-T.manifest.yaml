@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6o0006/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0006/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如實論
+  identifiers:
+    krp: KR6o0006
+    cbeta: T32n1633
+    cbeta_old_id: T32n1633
+    authorityid: CA0002665
+    json_key: T1633
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1633.xml
+    old_id: T32n1633
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0006_000-T.yaml, hash: 'sha256:b1ec6c4bdde987fd0e4566d238056b4f5a7a1e41aa39ecee4c80faaf00fd4605'}
+  - {seq: 1, filename: KR6o0006_001-T.yaml, hash: 'sha256:1db66602dff25fe20418c8948aa4089a1ffe6d53411434d97b2153734721c2a6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0006_000-T.markers.yaml, hash: 'sha256:e8306874dff5253a7b94973ebfaa00b8aed592dc86d297cd670250b79e19715f'}
+  - {seq: 1, role: markers, filename: assets/KR6o0006_001-T.markers.yaml, hash: 'sha256:fa678f53aa243c9afa71d258f8bd87810133835a4749b1aa8828e2508a20a1dc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0006_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10578
+  label: 如實論反質難品一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0006_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 1 無道理難品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0006_T_001-mulu-2
+    span:
+    - body
+    - 2436
+    - 2436
+  label: 2 道理難品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0006_T_001-mulu-3
+    span:
+    - body
+    - 8272
+    - 8272
+  label: 3 墮負處品
+  type: mulu
+  level: 1
+hash: sha256:ff058b1781d8d26cb819faa1c4c5cd768c2fcb70311fc43f25b809510ed88d86

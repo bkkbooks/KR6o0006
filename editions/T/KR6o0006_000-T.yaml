@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0006/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 如實論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1633.xml
+    old_id: T32n1633
+hash: sha256:b1ec6c4bdde987fd0e4566d238056b4f5a7a1e41aa39ecee4c80faaf00fd4605
