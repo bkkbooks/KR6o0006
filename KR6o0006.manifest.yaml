@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0006/v1
 canonical_location: https://kanripo.org/bkk/KR6o0006/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 如實論
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0006_000.yaml, hash: 'sha256:b1ec6c4bdde987fd0e4566d238056b4f5a7a1e41aa39ecee4c80faaf00fd4605'}
-  - {seq: 1, filename: KR6o0006_001.yaml, hash: 'sha256:1db66602dff25fe20418c8948aa4089a1ffe6d53411434d97b2153734721c2a6'}
+  - {seq: 1, filename: KR6o0006_001.yaml, hash: 'sha256:2cd575e179f0ea8b64fff256fecffdd3bd82e7d5ab53aba121c3e3b03fc089cf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0006_000.markers.yaml, hash: 'sha256:f9b7b1fa6af3777dc22ae81204bc2aca2d84af6d46318a2309fd8a9705303d79'}
-  - {seq: 1, role: markers, filename: assets/KR6o0006_001.markers.yaml, hash: 'sha256:3521e09611201f61eaed069ff0c0cea816dc2b906d6fa4f766b1273e400da79e'}
+  - {seq: 1, role: markers, filename: assets/KR6o0006_001.markers.yaml, hash: 'sha256:383f362a039f05d670411238395ddd5ab0e973f5f02d77458009205a4c467126'}
 table_of_contents:
 - ref:
     seq: 1
@@ -79,4 +79,7 @@ table_of_contents:
   label: 3 墮負處品
   type: mulu
   level: 1
-hash: sha256:c57d0af2bf719935f8efadca5efc364a3762237be5c8820601fad844c55252ab
+hash: sha256:4143d4353bd8527e585209408874318ef918317724d82099db40b4f2a21d2155
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
